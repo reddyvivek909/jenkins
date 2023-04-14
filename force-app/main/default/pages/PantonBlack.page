@@ -1,0 +1,33 @@
+<apex:page renderAs="pdf">
+   
+  <!-- Begin Default Content REMOVE THIS -->
+  <div  style="font-family: DialogInput;">Come da Vs. richiesta, Vi sottoponiamo la nostra “Proposta Tecnico-Economica” per la fornitura di Servizi Informatici di Analisi e Sviluppo Software.
+L’ipotesi di Contratto allegata, ove condivisa, potrà costituire formalizzazione, della fornitura in oggetto.
+</div>
+  <div  style="font-family: Monospaced;">Come da Vs. richiesta, Vi sottoponiamo la nostra “Proposta Tecnico-Economica” per la fornitura di Servizi Informatici di Analisi e Sviluppo Software.
+L’ipotesi di Contratto allegata, ove condivisa, potrà costituire formalizzazione, della fornitura in oggetto.
+</div>
+  <div  style="font-family: Courier;">Come da Vs. richiesta, Vi sottoponiamo la nostra “Proposta Tecnico-Economica” per la fornitura di Servizi Informatici di Analisi e Sviluppo Software.
+L’ipotesi di Contratto allegata, ove condivisa, potrà costituire formalizzazione, della fornitura in oggetto.
+</div>
+  <div  style="font-family: monospace;">Come da Vs. richiesta, Vi sottoponiamo la nostra “Proposta Tecnico-Economica” per la fornitura di Servizi Informatici di Analisi e Sviluppo Software.
+L’ipotesi di Contratto allegata, ove condivisa, potrà costituire formalizzazione, della fornitura in oggetto.
+</div>
+  <div  style="font-family: serif;">Come da Vs. richiesta, Vi sottoponiamo la nostra “Proposta Tecnico-Economica” per la fornitura di Servizi Informatici di Analisi e Sviluppo Software.
+L’ipotesi di Contratto allegata, ove condivisa, potrà costituire formalizzazione, della fornitura in oggetto.
+</div>
+  <div  style="font-family: Dialog;">Come da Vs. richiesta, Vi sottoponiamo la nostra “Proposta Tecnico-Economica” per la fornitura di Servizi Informatici di Analisi e Sviluppo Software.
+L’ipotesi di Contratto allegata, ove condivisa, potrà costituire formalizzazione, della fornitura in oggetto.
+</div>
+  <div  style="font-family: SansSerif;">Come da Vs. richiesta, Vi sottoponiamo la nostra “Proposta Tecnico-Economica” per la fornitura di Servizi Informatici di Analisi e Sviluppo Software.
+L’ipotesi di Contratto allegata, ove condivisa, potrà costituire formalizzazione, della fornitura in oggetto.
+</div>
+  <div  style="font-family: sans-serif;">Come da Vs. richiesta, Vi sottoponiamo la nostra “Proposta Tecnico-Economica” per la fornitura di Servizi Informatici di Analisi e Sviluppo Software.
+L’ipotesi di Contratto allegata, ove condivisa, potrà costituire formalizzazione, della fornitura in oggetto.
+</div>
+
+
+  
+  This is your new Page
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

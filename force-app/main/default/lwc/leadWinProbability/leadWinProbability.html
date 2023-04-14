@@ -1,0 +1,25 @@
+<template>
+    <div class="container">
+      <lightning-card title="Lead Conversion Rate">
+        <lightning-layout>
+          <lightning-layout-item size="6">
+            <div class="gauge-container">
+              <div class="gauge">
+                <svg viewBox="0 0 42 42">
+                  <circle class="gauge__background" cx="21" cy="21" r="20"></circle>
+                  <circle class="gauge__fill" cx="21" cy="21" r="20"  style={fillStyle}></circle>
+                  <text class="gauge__label" x="50%" y="50%">{leadConversionRate}</text>
+                </svg>
+              </div>
+            </div>
+          </lightning-layout-item>
+          <lightning-layout-item size="6">
+            <div class="info">
+              <div class="label">Lead Conversion Rate</div>
+              <div class="value">leadConversionRate</div>
+            </div>
+          </lightning-layout-item>
+        </lightning-layout>
+      </lightning-card>
+    </div>
+  </template>
